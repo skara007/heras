@@ -9,10 +9,10 @@ tags: [Holidays, Hawaii]
 ---
 Test Digitale Kunst. Diese Seite befindet sich im Aufbau 
 
-## Plaid ramps kitsch woke pork belly
+
 Test Digitale Kunst. Diese Seite befindet sich im Aufbau 
 
-![Heidlerberger Schloss]({{site.baseurl}}/assets/img/heidelberger_schloss2.jpg)
+
 
 Test Digitale Kunst. Diese Seite befindet sich im Aufbau 
 
