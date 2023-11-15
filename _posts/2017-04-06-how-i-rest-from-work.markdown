@@ -8,14 +8,14 @@ fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
 Test Digitale Kunst. Diese Seite befindet sich im Aufbau 
+![City]({{site.baseurl}}/assets/img/city.jpg)
+
+Test Digitale Kunst. Diese Seite befindet sich im Aufbau 
+![Heidelberger Schloss]({{site.baseurl}}/assets/img/heidelberger_schloss2.jpg)
 
 
 Test Digitale Kunst. Diese Seite befindet sich im Aufbau 
-
-
-
-Test Digitale Kunst. Diese Seite befindet sich im Aufbau 
-
+![Heidelberger Schloss]({{site.baseurl}}/assets/img/heidelberger_schloss2.jpg)
 
 
 Test Digitale Kunst. Diese Seite befindet sich im Aufbau 
