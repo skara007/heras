@@ -4,6 +4,7 @@ title: Digitale Kunst
 date: 2017-09-12 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: city.jpg # Add image post (optional)
+img: heidelberger_schloss2.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
@@ -12,7 +13,7 @@ Test Digitale Kunst. Diese Seite befindet sich im Aufbau
 ## Plaid ramps kitsch woke pork belly
 Test Digitale Kunst. Diese Seite befindet sich im Aufbau 
 
-![Heidlerberger Schloss]({{site.baseurl}}/assets/heidelberger_schloss2.jpg)
+![Heidlerberger Schloss]({{site.baseurl}}/assets/img/heidelberger_schloss2.jpg)
 
 Test Digitale Kunst. Diese Seite befindet sich im Aufbau 
 
