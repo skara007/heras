@@ -2,7 +2,7 @@
 layout: post
 title: Skulpturen & freie Kunst
 description:  # Add post description (optional)
-img: workflow.jpg # Add image post (optional)
+img: wobbler.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Productivity, Workflow] # add tag
 ---
