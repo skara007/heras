@@ -11,9 +11,9 @@ tags: [Holidays,Hawaii]
 
 <div style="text-align:center">
 ![City]({{site.baseurl}}/assets/img/city70k.jpg){: width="600" }
-
-![City Rahmen]({{site.baseurl}}/assets/img/City70k.jpg){: width="600" }
 </div>
+![City Rahmen]({{site.baseurl}}/assets/img/City70k.jpg){: width="600" }
+
 ---
 **Name:** City      
 **Erstellungszeitraum:** 2002 - 2013       
@@ -23,9 +23,9 @@ tags: [Holidays,Hawaii]
 
 <div style="text-align:center">
 ![Heidelberger Schloss]({{site.baseurl}}/assets/img/heidelberger_schloss2.jpg){: width="600" }
-
-![Heidelberger Schloss]({{site.baseurl}}/assets/img/heidelbergerschlossrahmen5.jpg){: width="600" }
 </div>
+![Heidelberger Schloss]({{site.baseurl}}/assets/img/heidelbergerschlossrahmen5.jpg){: width="600" }
+
 ---
 **Name:** Heidelberger Schloss    
 **Erstellungszeitraum:** 2014      
@@ -35,9 +35,9 @@ tags: [Holidays,Hawaii]
 
 <div style="text-align:center">
 ![Golden Gate]({{site.baseurl}}/assets/img/golden_gate.jpg){: width="600" }
-
-![Golden Gate]({{site.baseurl}}/assets/img/goldengatebridgerahmen.jpg){: width="600" }
 </div>
+![Golden Gate]({{site.baseurl}}/assets/img/goldengatebridgerahmen.jpg){: width="600" }
+
 ---
 **Name:** Golden Gate Bridge   
 **Erstellungszeitraum:** 2014      
@@ -47,9 +47,9 @@ tags: [Holidays,Hawaii]
 
 <div style="text-align:center">
 ![Hindenburg]({{site.baseurl}}/assets/img/hindenburg.jpg){: width="600" }
-
-![Hindenburg]({{site.baseurl}}/assets/img/hindenburg2.jpg){: width="600" }
 </div>
+![Hindenburg]({{site.baseurl}}/assets/img/hindenburg2.jpg){: width="600" }
+
 ---
 **Name:** Hindenburg   
 **Erstellungszeitraum:** 2014      
