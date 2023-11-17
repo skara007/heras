@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Digitale Kunst
-date: 
-description:   # Add post description (optional)
+date: 2023-11-17 13:32:20 +0300
+description: Grafiken  # Add post description (optional)
 img: city.jpg # Add image post (optional) 
 fig-caption: # Add figcaption (optional)
-tags: [Architketur]
+tags: [Holidays,Hawaii]
 ---
 
 ![City]({{site.baseurl}}/assets/img/city70k.jpg)
