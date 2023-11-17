@@ -9,9 +9,9 @@ tags: [Holidays,Hawaii]
 ---
 
 
-<div style="text-align:center">
+
 ![City]({{site.baseurl}}/assets/img/city70k.jpg){: width="600" }
-</div>
+
 ![City Rahmen]({{site.baseurl}}/assets/img/City70k.jpg){: width="600" }
 
 ---
@@ -21,9 +21,9 @@ tags: [Holidays,Hawaii]
 ---
 
 
-<div style="text-align:center">
+
 ![Heidelberger Schloss]({{site.baseurl}}/assets/img/heidelberger_schloss2.jpg){: width="600" }
-</div>
+
 ![Heidelberger Schloss]({{site.baseurl}}/assets/img/heidelbergerschlossrahmen5.jpg){: width="600" }
 
 ---
@@ -33,9 +33,9 @@ tags: [Holidays,Hawaii]
 ---
 
 
-<div style="text-align:center">
+
 ![Golden Gate]({{site.baseurl}}/assets/img/golden_gate.jpg){: width="600" }
-</div>
+
 ![Golden Gate]({{site.baseurl}}/assets/img/goldengatebridgerahmen.jpg){: width="600" }
 
 ---
@@ -45,9 +45,8 @@ tags: [Holidays,Hawaii]
 ---
 
 
-<div style="text-align:center">
-![Hindenburg]({{site.baseurl}}/assets/img/hindenburg.jpg){: width="600" }
-</div>
+<![Hindenburg]({{site.baseurl}}/assets/img/hindenburg.jpg){: width="600" }
+
 ![Hindenburg]({{site.baseurl}}/assets/img/hindenburg2.jpg){: width="600" }
 
 ---
