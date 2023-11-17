@@ -12,7 +12,7 @@ tags: [Architketur]
 
 **Name:** City      
 **Erstellungszeitraum:** 2002 - 2013       
-**Größe:** DIN A4
+**Größe:** DIN A4 
 
 ![City Rahmen]({{site.baseurl}}/assets/img/City70k.jpg)
 
