@@ -37,11 +37,14 @@ tags: [Holidays,Hawaii]
 **Name:** Golden Gate Bridge   
 **Erstellungszeitraum:** 2014      
 **Größe:** DIN A4
+**Besonderheiten:** Hintergrundbeleuchtung
 ---
 
 ![Golden Gate]({{site.baseurl}}/assets/img/golden_gate.jpg){: width="600" }
 
 ![Golden Gate]({{site.baseurl}}/assets/img/goldengatebridgerahmen.jpg){: width="600" }
+
+![Golden Gate]({{site.baseurl}}/assets/img/goldengatef.jpg){: width="600" }
 
 
 
@@ -51,7 +54,7 @@ tags: [Holidays,Hawaii]
 **Größe:** DIN A4
 ---
 
-<![Hindenburg]({{site.baseurl}}/assets/img/hindenburg.jpg){: width="600" }
+![Hindenburg]({{site.baseurl}}/assets/img/hindenburg.jpg){: width="600" }
 
 ![Hindenburg]({{site.baseurl}}/assets/img/hindenburg2.jpg){: width="600" }
 
