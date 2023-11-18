@@ -7,7 +7,7 @@ img: mypic.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
-![japan]({{site.baseurl}}/assets/img/mypic.jpg){: width="600" }
+![mypic]({{site.baseurl}}/assets/img/mypic.jpg){: width="600" }
 
 ![japan]({{site.baseurl}}/assets/img/japan.jpg){: width="600" }
 
@@ -19,9 +19,6 @@ tags: [Productivity, Software] # add tag
 
 ![koala2]({{site.baseurl}}/assets/img/koala2.jpg){: width="600" }
 
-![foala]({{site.baseurl}}/assets/img/foala.jpg){: width="600" }
-
-![dame]({{site.baseurl}}/assets/img/dame.jpg){: width="600" }
 
 **Malbuch:** My Picture - for young and old  
 **Erstellungszeitraum:** 2016    
