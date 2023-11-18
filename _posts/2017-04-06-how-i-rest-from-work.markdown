@@ -15,7 +15,7 @@ tags: [Holidays,Hawaii]
 **Größe:** DIN A4 
 ---
 
-![City]({{site.baseurl}}/assets/img/city70k.jpg){: width="600" }
+![]({{site.baseurl}}/assets/img/city70k.jpg){: width="600" }
 
 ![City Rahmen]({{site.baseurl}}/assets/img/City70k.jpg){: width="600" }
 
