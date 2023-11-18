@@ -17,11 +17,11 @@ tags: [Productivity, Software] # add tag
 
 ![eifelturm]({{site.baseurl}}/assets/img/eifelturm.jpg){: width="800" }
 
-![]({{site.baseurl}}/assets/img/koala.jpg){: width="800" }
+![koala]({{site.baseurl}}/assets/img/koala.jpg){: width="800" }
 
 ![koala2]({{site.baseurl}}/assets/img/koala2.jpg){: width="800" }
 
-![]({{site.baseurl}}/assets/img/notredame.jpg){: width="800" }
+![notredame]({{site.baseurl}}/assets/img/notredame.jpg){: width="800" }
 
 **Malbuch:** My Picture - for young and old  
 **Erstellungszeitraum:** 2016    
