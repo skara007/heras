@@ -19,9 +19,7 @@ tags: [Productivity, Software] # add tag
 
 ![koala2]({{site.baseurl}}/assets/img/koala2.jpg){: width="600" }
 
-![koala]({{site.baseurl}}/assets/img/koala.jpg){: width="600" }
 
-![dame]({{site.baseurl}}/assets/img/dame.jpg){: width="600" }
 
 
 **Malbuch:** My Picture - for young and old  
