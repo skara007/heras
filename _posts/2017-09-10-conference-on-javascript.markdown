@@ -7,6 +7,6 @@ img: js-1.png # Add image post (optional)
 tags: [Js, Conference] # add tag
 ---
 
-![Kontakt]({{site.baseurl}}/assets/img/kontakt.jpg){: width="600" }
+![Kontakt]({{site.baseurl}}/assets/img/Kontakt.jpg){: width="600" }
 
 ![Impressum]({{site.baseurl}}/assets/img/impressum.jpg){: width="600" }
