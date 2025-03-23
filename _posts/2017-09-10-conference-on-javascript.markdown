@@ -10,3 +10,9 @@ tags: [Js, Conference] # add tag
 ![Kontakt]({{site.baseurl}}/assets/img/Kontakt.jpg){: width="600" }
 
 ![Impressum]({{site.baseurl}}/assets/img/impressum.jpg){: width="600" }
+
+**Kontakt:** 
+Andreas Herkert
+Alte Bergsteige 66, 74281 Mosbach
+E-Mail: a.herkert.art@t-online.de 
+
